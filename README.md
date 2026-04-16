@@ -31,13 +31,10 @@ App runs at: http://localhost:5173
 ---
 
 
-
 # Screenshots
 
 ## Main Dashboard
-![Dashboard](assets\image.png)
-
-
+![Dashboard](assets/image.png)
 
 
 ## ✨ Features
